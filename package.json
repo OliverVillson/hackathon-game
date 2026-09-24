@@ -1,0 +1,10 @@
+{
+  "name": "survive-exe",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "check": "node src/game/check.js"
+  }
+}
